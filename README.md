@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Huvinesh-Rajendran-12
+- 👋 Hi, I’m Huvinesh Rajendran.
 - 👀 I’m interested in ...Machine Learning, AI, Blockchain
 - 🌱 I’m currently learning ...Data Science 
 - 💞️ I’m looking to collaborate on ...Machine Learning
