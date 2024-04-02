@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Huvinesh Rajendran.
 - 👀 I’m interested in ...Machine Learning, AI, Blockchain
-- 🌱 I’m currently working ... as a Junior Developer
+- 🌱 I’m currently working ... as a Software Engineer
 - 💞️ I’m looking to collaborate on ...Machine Learning
 - 📫 How to reach me ... huvineshrajendran@gmail.com is my email.
 
